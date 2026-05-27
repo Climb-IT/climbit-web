@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@fontsource-variable/jetbrains-mono/wght";
+
+@theme inline {
+	--font-mono: "JetBrains Mono Variable", monospace;
+}

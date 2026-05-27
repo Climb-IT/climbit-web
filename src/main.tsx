@@ -5,6 +5,9 @@ import ReactDOM from "react-dom/client";
 // Import the generated route tree
 import { routeTree } from "./routeTree.gen";
 
+// Import global styles
+import "./styles.css";
+
 // Create a new router instance
 const router = createRouter({ routeTree });
 
